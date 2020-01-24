@@ -1,5 +1,6 @@
 Nuevo Oso
 # Hola-Mundo
+<<<<<<< HEAD
 _______________¶¶¶¶¶¶
 __________¶¶¶¶¶¶¶¶__¶¶
 _____¶¶¶¶¶¶¶¶¶¶¶¶¶¶ ¶¶
@@ -18,3 +19,6 @@ __¶¶¶¶¶'¤'¤'¤'¤'¤I T.'¤'¤'¤'¶¶¶¶¶¶
 _¶¶___¶¶¶¶¶________¶¶¶¶___¶¶
 __¶¶¶¶¶¶¶¶___________¶¶¶¶¶¶
 (♥)¤ª~¨¨¨¨~ª¤(♥)¤ª~¨¨¨¨~ª¤(♥)
+=======
+Este es el primer ejemplo de github para crear un nuevo repositorio desde cero
+>>>>>>> parent of 3d2162d... Osito_Cambio
