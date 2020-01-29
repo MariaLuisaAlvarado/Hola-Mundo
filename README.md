@@ -25,6 +25,11 @@ Este es el primer ejemplo de github para crear un nuevo repositorio desde cero
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 3d2162d... Osito_Cambio
+=======
+>>>>>>> master
 >>>>>>> parent of 3d2162d... Osito_Cambio
 =======
 >>>>>>> parent of 3d2162d... Osito_Cambio
